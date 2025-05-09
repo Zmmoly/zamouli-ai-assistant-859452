@@ -1,0 +1,20 @@
+# ملف تكوين لأصول زمولي الكبيرة
+# تم إنشاؤه تلقائياً بواسطة عمر
+
+# معلومات الإصدار
+releaseTag: assets-861361
+releaseUrl: https://github.com/Zmmoly/zamouli-ai-assistant-859452/releases/tag/assets-861361
+
+# روابط تنزيل الملفات الكبيرة
+app/ml/model.tflite: https://github.com/Zmmoly/zamouli-ai-assistant-859452/releases/download/assets-861361/model.tflite
+app/src/main/assets/arabic_dialect_model.tflite: https://github.com/Zmmoly/zamouli-ai-assistant-859452/releases/download/assets-861361/arabic_dialect_model.tflite
+app/src/main/assets/logical_reasoning_model.tflite: https://github.com/Zmmoly/zamouli-ai-assistant-859452/releases/download/assets-861361/logical_reasoning_model.tflite
+app/src/main/assets/medical_analyzer_model.tflite: https://github.com/Zmmoly/zamouli-ai-assistant-859452/releases/download/assets-861361/medical_analyzer_model.tflite
+app/src/main/assets/voice_emotion_model.tflite: https://github.com/Zmmoly/zamouli-ai-assistant-859452/releases/download/assets-861361/voice_emotion_model.tflite
+app/src/main/assets/labels.txt: https://github.com/Zmmoly/zamouli-ai-assistant-859452/releases/download/assets-861361/labels.txt
+
+# تعليمات التحميل
+# يمكن استخدام هذه الروابط لتنزيل الملفات الكبيرة مثل نماذج التعلم الآلي
+
+# معلومات إضافية
+تاريخ_الإنشاء: 2025-05-09T14:11:33.615Z
